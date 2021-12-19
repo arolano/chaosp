@@ -197,7 +197,7 @@ CUSTOM_VENDOR_MAKEFILE="${CUSTOM_VENDOR_BASEDIR}/vendor/config/main.mk"
 BROMITE_DIR="${ROOT_DIR}/bromite"
 
 CORE_CONFIG_REPO="https://github.com/RattlesnakeOS/core-config-repo.git"
-CUSTOM_CONFIG_REPO="https://github.com/CaseyBakey/example-custom-config-repo.git"
+CUSTOM_CONFIG_REPO="https://github.com/arolano/example-custom-config-repo.git"
 
 APV_REMOTE=https://github.com/GrapheneOS/
 APV_BRANCH=12
