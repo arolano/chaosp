@@ -1,1 +1,1 @@
-Just a little note here -  re-enabling MicroG in android 12. Besides MicroG intend to just stay in sync with CaseyBakey 
+Just a little note here -  re-enabling MicroG in android 12 (updated the other repo too) Besides MicroG intend to just stay in sync with CaseyBakey 
